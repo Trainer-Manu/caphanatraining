@@ -1,6 +1,6 @@
 {
   "xsappname": "caphana",
-  "tenant-mode" : "dedicated",
+  "tenant-mode": "dedicated",
   "scopes": [
     {
       "name": "$XSAPPNAME.Admin",
